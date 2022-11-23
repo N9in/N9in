@@ -2,9 +2,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif" width="250"/>
 </div>
-<div id="badges" align="center">
-<img src="https://komarev.com/ghpvc/?username=N9in&style=flat-square&color=blue" alt=""/>
-</div>
 <h1 id="badges" align="center">
 Hi, I'm Anton👋
 </h1>
